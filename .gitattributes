@@ -1,0 +1,1 @@
+backend/data/dados_metereologicos.csv filter=lfs diff=lfs merge=lfs -text
